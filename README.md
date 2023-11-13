@@ -1,2 +1,2 @@
 # IDEA-iterative-analysis
- Software for analyziing IDEA data that will be iteratively enhanced.
+ Software for analyzing IDEA data that will be iteratively enhanced.
